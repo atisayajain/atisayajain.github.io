@@ -1,0 +1,20 @@
+entries:
+  - title: me
+    entries:
+      - title: "Software Engineer, @ <a href='https://instahyre.com' target='_blank'>Instahyre</a>"
+      - title: "District Webmaster, @ <a href='https://rotaract3291.org' target='_blank'>RDO, RI District 3291</a>"
+      - title: email
+        url: mailto:atisayajain@gmail.com
+      - title: linkedin
+        url: https://linkedin.com/in/atisayajain
+      - title: github
+        url: https://github.com/atisayajain
+      - title: instagram
+        url: https://instagram.com/atisayajain
+      - title: medium
+        url: https://medium.com/atisayajain
+
+  - title: rss
+    url: feed.xml
+
+  - title: "theme by <a href='https://riggraz.dev' target='_blank'>riggraz.dev</a>"
