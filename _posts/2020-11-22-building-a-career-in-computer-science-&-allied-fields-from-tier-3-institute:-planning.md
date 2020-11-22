@@ -65,13 +65,13 @@ We will only explore the most popular options though or the ones people are most
 
 {% gist c21e758e4a5b304fe4e4daf828b345a6 %}
 
-_(I have tried to provide my personal opinion on various career choices and by no means am I trying to undermine any industry. If you still think, my opinion is fair kindly get back to me and I shall rephrase my point.)_
+_(I have tried to provide my personal opinion on various career choices and by no means am I trying to undermine any industry. If you still think, my judgement isn't fair kindly get back to me and I shall rephrase my point.)_
 
 **A few things to mention**
 * **You can always get into startups and management roles**, at any point in your career in any industry, whatsoever. There is no right time to get onto this track. What might work for you will never work for anyone else.
 * **PSUs?** There aren't many PSUs in India offering jobs for CS grads at the moment. But if you do want to get into one, go through the available list of jobs and prepare and apply.
 * **Govt. Research (ISRO, DRDO etc.)?** Most of these labs advertise their openings and application procedures every year (around ~40). If you do want to get into Space or Defence research in India you can't do it without being affiliated to any of these organisations.
-* **UPSC / SSC?** You know the first step for this, don't you? On a serious note, these are not related to CS directly, so I didn't feel like including them. But if you are passionate about being one, sure, go for it!
+* **UPSC / SSC?** _You know the first step for this, don't you?_ On a serious note, these are not related to CS directly, so I didn't feel like including them. But if you are passionate about being one, sure, go for it!
 * **Higher Studies?** Will explore in the next part.
 
 I hope this helps you in clearing your queries regarding all that is possible while staying in Computer Science and makes you create a better and informed decision. That's why I have called this part, **Planning**.
