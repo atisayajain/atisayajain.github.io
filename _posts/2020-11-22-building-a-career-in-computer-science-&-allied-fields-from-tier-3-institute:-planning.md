@@ -3,6 +3,8 @@ layout: post
 comments: true
 ---
 
+![Comic#001: The Stack Overflow Antipattern](../assets/images/building-career-in-cs-1.jpg)
+
 Hello, there! Hope you are keeping safe during this pandemic.
 
 If you are reading this article for any given reason, there's a high chance you are looking to build a career in Computer Science or any of its allied fields, and that's what we shall explore in this article.
