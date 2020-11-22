@@ -65,7 +65,7 @@ We will only explore the most popular options though or the ones people are most
 
 {% gist c21e758e4a5b304fe4e4daf828b345a6 %}
 
-_(I have tried to provide my personal opinion on various career choices and by no means am I trying to undermine any industry. If you still think, my judgement isn't fair kindly get back to me and I shall rephrase my point.)_
+_(I have tried to provide my personal opinion on various career choices and by no means am I trying to undermine any industry. If you still think that my judgement isn't fair kindly get back to me and I shall rephrase my point.)_
 
 **A few things to mention**
 * **You can always get into startups and management roles**, at any point in your career in any industry, whatsoever. There is no right time to get onto this track. What might work for you will never work for anyone else.
