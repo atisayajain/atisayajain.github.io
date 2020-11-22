@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 ---
 
 Hello, there! Hope you are keeping safe during this pandemic.
