@@ -3,7 +3,7 @@ layout: post
 comments: true
 ---
 
-![Comic#001: The Stack Overflow Antipattern](../assets/images/building-career-in-cs-1.jpg)
+![Building A Career In Computer Science & Allied Fields From Tier 3 Institute: Planning - Header](../assets/images/building-career-in-cs-1.jpg)
 
 Hello, there! Hope you are keeping safe during this pandemic.
 
