@@ -1,20 +1,22 @@
 entries:
   - title: me
     entries:
-      - title: "Software Engineer, <a href='https://instahyre.com' target='_blank'>Instahyre</a>"
-      - title: "District Webmaster, <a href='https://rotaract3291.org' target='_blank'>RDO, RI District 3291</a>"
-      - title: email
-        url: mailto:atisayajain@gmail.com
+      - title: "Now: Building AI-native systems | Amateur Runner"
+      - title: "Prev: Lead engineering at Josh Talks"
       - title: linkedin
         url: https://linkedin.com/in/atisayajain
       - title: github
         url: https://github.com/atisayajain
-      - title: instagram
-        url: https://instagram.com/atisayajain
+      - title: email
+        url: mailto:atisayajain@gmail.com
+      - title: strava
+        url: https://www.strava.com/athletes/98568956
+      - title: twitter
+        url: https://twitter.com/atisayajain
       - title: medium
-        url: https://medium.com/atisayajain
-      - title: resume
-        url: https://drive.google.com/file/d/1I0LglSAlejEIE9HZhz17KOTcvfV7pcOT/view
+        url: https://medium.com/@atisayajain
+      # - title: resume
+      #   url: https://drive.google.com/file/d/1I0LglSAlejEIE9HZhz17KOTcvfV7pcOT/view
 
   - title: all posts
     post_list:

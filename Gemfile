@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
 
-gem "no-style-please"
 gem 'jekyll-gist'
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'kramdown-parser-gfm'
+gem 'webrick'
